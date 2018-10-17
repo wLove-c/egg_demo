@@ -1,0 +1,61 @@
+2018-10-12 10:35:47,102 INFO 17255 [egg:logger] init all loggers with options: {"dir":"/Users/wlove_c/Eno/study/egg学习/myExample/logs/myexample","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"myexample-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2018-10-12 10:35:47,157 INFO 17255 [egg:core] dump config after load, 4ms
+2018-10-12 10:35:47,197 INFO 17255 [egg-watcher] Start watching: ["/Users/wlove_c/Eno/study/egg学习/myExample/app","/Users/wlove_c/Eno/study/egg学习/myExample/config","/Users/wlove_c/Eno/study/egg学习/myExample/mocks","/Users/wlove_c/Eno/study/egg学习/myExample/mocks_proxy","/Users/wlove_c/Eno/study/egg学习/myExample/app.js"]
+2018-10-12 10:35:47,198 INFO 17255 [egg-watcher] Start watching: "/Users/wlove_c/Eno/study/egg学习/myExample/app"
+2018-10-12 10:35:47,198 INFO 17255 [egg-watcher] Start watching: "/Users/wlove_c/Eno/study/egg学习/myExample/config"
+2018-10-12 10:35:47,198 INFO 17255 [egg-watcher] Start watching: "/Users/wlove_c/Eno/study/egg学习/myExample/mocks"
+2018-10-12 10:35:47,198 INFO 17255 [egg-watcher] Start watching: "/Users/wlove_c/Eno/study/egg学习/myExample/mocks_proxy"
+2018-10-12 10:35:47,198 INFO 17255 [egg-watcher] Start watching: "/Users/wlove_c/Eno/study/egg学习/myExample/app.js"
+2018-10-12 10:35:47,198 INFO 17255 [egg-watcher:agent] watcher start success
+2018-10-12 10:35:47,218 INFO 17255 [egg:core] dump config after ready, 3ms
+2018-10-12 10:35:47,885 INFO 17255 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/wlove_c/Eno/study/egg学习/myExample/app/public","stat":{"dev":16777221,"mode":16877,"nlink":2,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":4312318912,"size":64,"blocks":0,"atimeMs":1539311747873.7134,"mtimeMs":1539311747873.7134,"ctimeMs":1539311747873.7134,"birthtimeMs":1539311747873.7134,"atime":"2018-10-12T02:35:47.874Z","mtime":"2018-10-12T02:35:47.874Z","ctime":"2018-10-12T02:35:47.874Z","birthtime":"2018-10-12T02:35:47.874Z"},"remove":false,"isDirectory":true,"isFile":false}
+2018-10-12 10:37:49,666 INFO 17279 [egg:logger] init all loggers with options: {"dir":"/Users/wlove_c/Eno/study/egg学习/myExample/logs/myexample","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"myexample-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2018-10-12 10:37:49,722 INFO 17279 [egg:core] dump config after load, 4ms
+2018-10-12 10:37:49,762 INFO 17279 [egg-watcher] Start watching: ["/Users/wlove_c/Eno/study/egg学习/myExample/app","/Users/wlove_c/Eno/study/egg学习/myExample/config","/Users/wlove_c/Eno/study/egg学习/myExample/mocks","/Users/wlove_c/Eno/study/egg学习/myExample/mocks_proxy","/Users/wlove_c/Eno/study/egg学习/myExample/app.js"]
+2018-10-12 10:37:49,762 INFO 17279 [egg-watcher] Start watching: "/Users/wlove_c/Eno/study/egg学习/myExample/app"
+2018-10-12 10:37:49,762 INFO 17279 [egg-watcher] Start watching: "/Users/wlove_c/Eno/study/egg学习/myExample/config"
+2018-10-12 10:37:49,762 INFO 17279 [egg-watcher] Start watching: "/Users/wlove_c/Eno/study/egg学习/myExample/mocks"
+2018-10-12 10:37:49,763 INFO 17279 [egg-watcher] Start watching: "/Users/wlove_c/Eno/study/egg学习/myExample/mocks_proxy"
+2018-10-12 10:37:49,763 INFO 17279 [egg-watcher] Start watching: "/Users/wlove_c/Eno/study/egg学习/myExample/app.js"
+2018-10-12 10:37:49,763 INFO 17279 [egg-watcher:agent] watcher start success
+2018-10-12 10:37:49,784 INFO 17279 [egg:core] dump config after ready, 3ms
+2018-10-12 10:38:39,317 INFO 17292 [egg:logger] init all loggers with options: {"dir":"/Users/wlove_c/Eno/study/egg学习/myExample/logs/myexample","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"myexample-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2018-10-12 10:38:39,371 INFO 17292 [egg:core] dump config after load, 5ms
+2018-10-12 10:38:39,411 INFO 17292 [egg-watcher] Start watching: ["/Users/wlove_c/Eno/study/egg学习/myExample/app","/Users/wlove_c/Eno/study/egg学习/myExample/config","/Users/wlove_c/Eno/study/egg学习/myExample/mocks","/Users/wlove_c/Eno/study/egg学习/myExample/mocks_proxy","/Users/wlove_c/Eno/study/egg学习/myExample/app.js"]
+2018-10-12 10:38:39,411 INFO 17292 [egg-watcher] Start watching: "/Users/wlove_c/Eno/study/egg学习/myExample/app"
+2018-10-12 10:38:39,412 INFO 17292 [egg-watcher] Start watching: "/Users/wlove_c/Eno/study/egg学习/myExample/config"
+2018-10-12 10:38:39,412 INFO 17292 [egg-watcher] Start watching: "/Users/wlove_c/Eno/study/egg学习/myExample/mocks"
+2018-10-12 10:38:39,412 INFO 17292 [egg-watcher] Start watching: "/Users/wlove_c/Eno/study/egg学习/myExample/mocks_proxy"
+2018-10-12 10:38:39,412 INFO 17292 [egg-watcher] Start watching: "/Users/wlove_c/Eno/study/egg学习/myExample/app.js"
+2018-10-12 10:38:39,412 INFO 17292 [egg-watcher:agent] watcher start success
+2018-10-12 10:38:39,434 INFO 17292 [egg:core] dump config after ready, 3ms
+2018-10-12 10:42:11,316 INFO 17317 [egg:logger] init all loggers with options: {"dir":"/Users/wlove_c/Eno/study/egg学习/myExample/logs/myexample","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"myexample-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2018-10-12 10:42:11,372 INFO 17317 [egg:core] dump config after load, 5ms
+2018-10-12 10:42:11,412 INFO 17317 [egg-watcher] Start watching: ["/Users/wlove_c/Eno/study/egg学习/myExample/app","/Users/wlove_c/Eno/study/egg学习/myExample/config","/Users/wlove_c/Eno/study/egg学习/myExample/mocks","/Users/wlove_c/Eno/study/egg学习/myExample/mocks_proxy","/Users/wlove_c/Eno/study/egg学习/myExample/app.js"]
+2018-10-12 10:42:11,412 INFO 17317 [egg-watcher] Start watching: "/Users/wlove_c/Eno/study/egg学习/myExample/app"
+2018-10-12 10:42:11,412 INFO 17317 [egg-watcher] Start watching: "/Users/wlove_c/Eno/study/egg学习/myExample/config"
+2018-10-12 10:42:11,412 INFO 17317 [egg-watcher] Start watching: "/Users/wlove_c/Eno/study/egg学习/myExample/mocks"
+2018-10-12 10:42:11,412 INFO 17317 [egg-watcher] Start watching: "/Users/wlove_c/Eno/study/egg学习/myExample/mocks_proxy"
+2018-10-12 10:42:11,412 INFO 17317 [egg-watcher] Start watching: "/Users/wlove_c/Eno/study/egg学习/myExample/app.js"
+2018-10-12 10:42:11,413 INFO 17317 [egg-watcher:agent] watcher start success
+2018-10-12 10:42:11,434 INFO 17317 [egg:core] dump config after ready, 3ms
+2018-10-12 10:45:29,216 INFO 17713 [egg:logger] init all loggers with options: {"dir":"/Users/wlove_c/Eno/study/egg学习/myExample/logs/myexample","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"myexample-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2018-10-12 10:45:29,270 INFO 17713 [egg:core] dump config after load, 4ms
+2018-10-12 10:45:29,311 INFO 17713 [egg-watcher] Start watching: ["/Users/wlove_c/Eno/study/egg学习/myExample/app","/Users/wlove_c/Eno/study/egg学习/myExample/config","/Users/wlove_c/Eno/study/egg学习/myExample/mocks","/Users/wlove_c/Eno/study/egg学习/myExample/mocks_proxy","/Users/wlove_c/Eno/study/egg学习/myExample/app.js"]
+2018-10-12 10:45:29,311 INFO 17713 [egg-watcher] Start watching: "/Users/wlove_c/Eno/study/egg学习/myExample/app"
+2018-10-12 10:45:29,311 INFO 17713 [egg-watcher] Start watching: "/Users/wlove_c/Eno/study/egg学习/myExample/config"
+2018-10-12 10:45:29,311 INFO 17713 [egg-watcher] Start watching: "/Users/wlove_c/Eno/study/egg学习/myExample/mocks"
+2018-10-12 10:45:29,312 INFO 17713 [egg-watcher] Start watching: "/Users/wlove_c/Eno/study/egg学习/myExample/mocks_proxy"
+2018-10-12 10:45:29,312 INFO 17713 [egg-watcher] Start watching: "/Users/wlove_c/Eno/study/egg学习/myExample/app.js"
+2018-10-12 10:45:29,312 INFO 17713 [egg-watcher:agent] watcher start success
+2018-10-12 10:45:29,335 INFO 17713 [egg:core] dump config after ready, 3ms
+2018-10-12 10:51:04,369 INFO 17790 [egg:logger] init all loggers with options: {"dir":"/Users/wlove_c/Eno/study/egg学习/myExample/logs/myExample","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"myExample-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2018-10-12 10:51:04,422 INFO 17790 [egg:core] dump config after load, 5ms
+2018-10-12 10:51:04,461 INFO 17790 [egg-watcher] Start watching: ["/Users/wlove_c/Eno/study/egg学习/myExample/app","/Users/wlove_c/Eno/study/egg学习/myExample/config","/Users/wlove_c/Eno/study/egg学习/myExample/mocks","/Users/wlove_c/Eno/study/egg学习/myExample/mocks_proxy","/Users/wlove_c/Eno/study/egg学习/myExample/app.js"]
+2018-10-12 10:51:04,461 INFO 17790 [egg-watcher] Start watching: "/Users/wlove_c/Eno/study/egg学习/myExample/app"
+2018-10-12 10:51:04,462 INFO 17790 [egg-watcher] Start watching: "/Users/wlove_c/Eno/study/egg学习/myExample/config"
+2018-10-12 10:51:04,462 INFO 17790 [egg-watcher] Start watching: "/Users/wlove_c/Eno/study/egg学习/myExample/mocks"
+2018-10-12 10:51:04,462 INFO 17790 [egg-watcher] Start watching: "/Users/wlove_c/Eno/study/egg学习/myExample/mocks_proxy"
+2018-10-12 10:51:04,462 INFO 17790 [egg-watcher] Start watching: "/Users/wlove_c/Eno/study/egg学习/myExample/app.js"
+2018-10-12 10:51:04,462 INFO 17790 [egg-watcher:agent] watcher start success
+2018-10-12 10:51:04,484 INFO 17790 [egg:core] dump config after ready, 3ms

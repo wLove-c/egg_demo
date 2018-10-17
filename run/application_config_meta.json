@@ -1,0 +1,272 @@
+{
+  "keys": "/Users/wlove_c/Eno/study/egg_study/myExample/config/config.default.js",
+  "middleware": "/Users/wlove_c/Eno/study/egg_study/myExample/config/config.default.js",
+  "robot": {
+    "ua": "/Users/wlove_c/Eno/study/egg_study/myExample/config/config.local.js"
+  },
+  "view": {
+    "defaultViewEngine": "/Users/wlove_c/Eno/study/egg_study/myExample/config/config.default.js",
+    "mapping": {
+      ".tpl": "/Users/wlove_c/Eno/study/egg_study/myExample/config/config.default.js"
+    },
+    "root": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-view/config/config.default.js",
+    "cache": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-view/config/config.local.js",
+    "defaultExtension": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-view/config/config.default.js"
+  },
+  "news": {
+    "pageSize": "/Users/wlove_c/Eno/study/egg_study/myExample/config/config.default.js",
+    "serverUrl": "/Users/wlove_c/Eno/study/egg_study/myExample/config/config.default.js"
+  },
+  "session": {
+    "maxAge": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-session/config/config.default.js",
+    "key": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-session/config/config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-security/config/config.default.js",
+    "csrf": {
+      "enable": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-security/config/config.default.js",
+      "useSession": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-security/config/config.default.js",
+      "headerName": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-security/config/config.default.js",
+      "queryName": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-security/config/config.default.js"
+    },
+    "xframe": {
+      "enable": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-security/config/config.default.js",
+      "policy": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-schedule/config/config.default.js",
+      "file": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-schedule/config/config.default.js"
+    }
+  },
+  "multipart": {
+    "mode": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-multipart/config/config.default.js",
+    "autoFields": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-multipart/config/config.default.js",
+    "tmpdir": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-multipart/config/config.default.js",
+    "cleanSchedule": {
+      "cron": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-multipart/config/config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-development/config/config.default.js",
+    "ignoreDirs": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-development/config/config.default.js",
+    "fastReady": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-development/config/config.default.js",
+    "overrideDefault": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-development/config/config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-static/config/config.default.js",
+    "dir": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-static/config/config.default.js",
+    "preload": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-static/config/config.default.js"
+  },
+  "nunjucks": {
+    "autoescape": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-view-nunjucks/config/config.default.js",
+    "throwOnUndefined": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-view-nunjucks/config/config.default.js",
+    "trimBlocks": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-view-nunjucks/config/config.default.js",
+    "lstripBlocks": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-view-nunjucks/config/config.default.js",
+    "cache": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-view-nunjucks/config/config.local.js"
+  },
+  "env": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg/config/config.default.js",
+  "name": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg/config/config.default.js",
+  "proxy": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg/config/config.default.js",
+    "version": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg/config/config.default.js",
+    "description": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg/config/config.default.js",
+    "main": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg/config/config.default.js",
+    "scripts": {
+      "dev": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg/config/config.default.js",
+      "test": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg/config/config.default.js",
+      "cov": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg/config/config.default.js"
+    },
+    "author": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg/config/config.default.js",
+    "license": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg/config/config.default.js",
+    "dependencies": {
+      "egg": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg/config/config.default.js",
+      "egg-view-nunjucks": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg/config/config.default.js",
+      "moment": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "egg-bin": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg/config/config.default.js"
+    }
+  },
+  "baseDir": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg/config/config.default.js",
+  "HOME": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg/config/config.default.js",
+  "rundir": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg/config/config.default.js",
+    "notFound": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg/config/config.default.js",
+    "sitefile": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg/config/config.default.js",
+    "middlewares": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg/config/config.default.js",
+    "httpClient": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg/config/config.default.js",
+    "formLimit": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg/config/config.default.js",
+    "strict": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg/config/config.default.js",
+      "depth": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg/config/config.default.js"
+    }
+  },
+  "logger": {
+    "dir": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg/config/config.default.js",
+    "env": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg/config/config.default.js",
+    "level": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg/config/config.default.js",
+    "buffer": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg/config/config.default.js",
+    "appLogName": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg/config/config.default.js",
+      "freeSocketKeepAliveTimeout": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg/config/config.default.js",
+      "freeSocketKeepAliveTimeout": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg/config/config.default.js",
+    "logging": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg/config/config.default.js",
+      "port": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg/config/config.default.js",
+      "hostname": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg/config/config.default.js"
+  },
+  "onClientError": "/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg/config/config.default.js"
+}

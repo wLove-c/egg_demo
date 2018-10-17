@@ -1,0 +1,533 @@
+2018-10-16 17:40:17,507 ERROR 30784 [-/::1/-/9ms GET /news] nodejs.AssertionError [ERR_ASSERTION]: Can't find viewEngine for /Users/wlove_c/Eno/study/egg_study/myExample/app/view/news/list.tpl
+    at ContextView.[contextView#render] (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-view/lib/context_view.js:66:5)
+    at <anonymous>
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: ""
+expected: true
+operator: "=="
+pid: 30784
+hostname: wangxiaobindeMacBook-Pro.local
+
+2018-10-16 17:40:46,529 ERROR 30784 [-/::1/-/0ms GET /news] nodejs.AssertionError [ERR_ASSERTION]: Can't find viewEngine for /Users/wlove_c/Eno/study/egg_study/myExample/app/view/news/list.tpl
+    at ContextView.[contextView#render] (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-view/lib/context_view.js:66:5)
+    at <anonymous>
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: ""
+expected: true
+operator: "=="
+pid: 30784
+hostname: wangxiaobindeMacBook-Pro.local
+
+2018-10-16 17:41:48,157 ERROR 30819 [-/::1/-/8ms GET /news] nodejs.AssertionError [ERR_ASSERTION]: Can't find viewEngine for /Users/wlove_c/Eno/study/egg_study/myExample/app/view/news/list.tpl
+    at ContextView.[contextView#render] (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-view/lib/context_view.js:66:5)
+    at <anonymous>
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: ""
+expected: true
+operator: "=="
+pid: 30819
+hostname: wangxiaobindeMacBook-Pro.local
+
+2018-10-16 17:41:49,701 ERROR 30819 [-/::1/-/1ms GET /news] nodejs.AssertionError [ERR_ASSERTION]: Can't find viewEngine for /Users/wlove_c/Eno/study/egg_study/myExample/app/view/news/list.tpl
+    at ContextView.[contextView#render] (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-view/lib/context_view.js:66:5)
+    at <anonymous>
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: ""
+expected: true
+operator: "=="
+pid: 30819
+hostname: wangxiaobindeMacBook-Pro.local
+
+2018-10-16 17:42:49,879 ERROR 30819 [-/::1/-/1ms GET /news] nodejs.AssertionError [ERR_ASSERTION]: Can't find viewEngine for /Users/wlove_c/Eno/study/egg_study/myExample/app/view/news/list.tpl
+    at ContextView.[contextView#render] (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-view/lib/context_view.js:66:5)
+    at <anonymous>
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: ""
+expected: true
+operator: "=="
+pid: 30819
+hostname: wangxiaobindeMacBook-Pro.local
+
+2018-10-16 17:44:26,490 ERROR 30830 [-/::1/-/8ms GET /news] nodejs.AssertionError [ERR_ASSERTION]: Can't find viewEngine for /Users/wlove_c/Eno/study/egg_study/myExample/app/view/news/list.tpl
+    at ContextView.[contextView#render] (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-view/lib/context_view.js:66:5)
+    at <anonymous>
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: ""
+expected: true
+operator: "=="
+pid: 30830
+hostname: wangxiaobindeMacBook-Pro.local
+
+2018-10-16 17:52:41,681 ERROR 30888 [-/::1/-/3ms GET /news] nodejs.AssertionError [ERR_ASSERTION]: Can't find viewEngine for /Users/wlove_c/Eno/study/egg_study/myExample/app/view/news/list.tpl
+    at ContextView.[contextView#render] (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-view/lib/context_view.js:66:5)
+    at <anonymous>
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: ""
+expected: true
+operator: "=="
+pid: 30888
+hostname: wangxiaobindeMacBook-Pro.local
+
+2018-10-16 17:54:11,104 ERROR 30896 [-/::1/-/9ms GET /news] nodejs.AssertionError [ERR_ASSERTION]: Can't find viewEngine for /Users/wlove_c/Eno/study/egg_study/myExample/app/view/news/list.tpl
+    at ContextView.[contextView#render] (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-view/lib/context_view.js:66:5)
+    at <anonymous>
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: ""
+expected: true
+operator: "=="
+pid: 30896
+hostname: wangxiaobindeMacBook-Pro.local
+
+2018-10-16 17:54:12,742 ERROR 30896 [-/::1/-/1ms GET /news] nodejs.AssertionError [ERR_ASSERTION]: Can't find viewEngine for /Users/wlove_c/Eno/study/egg_study/myExample/app/view/news/list.tpl
+    at ContextView.[contextView#render] (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-view/lib/context_view.js:66:5)
+    at <anonymous>
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: ""
+expected: true
+operator: "=="
+pid: 30896
+hostname: wangxiaobindeMacBook-Pro.local
+
+2018-10-16 17:55:04,432 ERROR 30896 [-/::1/-/1ms GET /news] nodejs.AssertionError [ERR_ASSERTION]: Can't find viewEngine for /Users/wlove_c/Eno/study/egg_study/myExample/app/view/news/list.tpl
+    at ContextView.[contextView#render] (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-view/lib/context_view.js:66:5)
+    at <anonymous>
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: ""
+expected: true
+operator: "=="
+pid: 30896
+hostname: wangxiaobindeMacBook-Pro.local
+
+2018-10-16 17:55:06,496 ERROR 30896 [-/::1/-/0ms GET /news] nodejs.AssertionError [ERR_ASSERTION]: Can't find viewEngine for /Users/wlove_c/Eno/study/egg_study/myExample/app/view/news/list.tpl
+    at ContextView.[contextView#render] (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-view/lib/context_view.js:66:5)
+    at <anonymous>
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: ""
+expected: true
+operator: "=="
+pid: 30896
+hostname: wangxiaobindeMacBook-Pro.local
+
+2018-10-16 17:55:16,165 ERROR 30896 [-/::1/-/0ms GET /news] nodejs.AssertionError [ERR_ASSERTION]: Can't find viewEngine for /Users/wlove_c/Eno/study/egg_study/myExample/app/view/news/list.tpl
+    at ContextView.[contextView#render] (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-view/lib/context_view.js:66:5)
+    at <anonymous>
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: ""
+expected: true
+operator: "=="
+pid: 30896
+hostname: wangxiaobindeMacBook-Pro.local
+
+2018-10-16 17:55:17,009 ERROR 30896 [-/::1/-/1ms GET /news] nodejs.AssertionError [ERR_ASSERTION]: Can't find viewEngine for /Users/wlove_c/Eno/study/egg_study/myExample/app/view/news/list.tpl
+    at ContextView.[contextView#render] (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-view/lib/context_view.js:66:5)
+    at <anonymous>
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: ""
+expected: true
+operator: "=="
+pid: 30896
+hostname: wangxiaobindeMacBook-Pro.local
+
+2018-10-16 17:56:35,732 ERROR 30896 [-/::1/-/1ms GET /news] nodejs.AssertionError [ERR_ASSERTION]: Can't find viewEngine for /Users/wlove_c/Eno/study/egg_study/myExample/app/view/news/list.tpl
+    at ContextView.[contextView#render] (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-view/lib/context_view.js:66:5)
+    at <anonymous>
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: ""
+expected: true
+operator: "=="
+pid: 30896
+hostname: wangxiaobindeMacBook-Pro.local
+
+2018-10-16 17:57:54,535 ERROR 30935 [-/::1/-/8ms GET /news] nodejs.AssertionError [ERR_ASSERTION]: Can't find viewEngine for /Users/wlove_c/Eno/study/egg_study/myExample/app/view/news/list.tpl
+    at ContextView.[contextView#render] (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-view/lib/context_view.js:66:5)
+    at <anonymous>
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: ""
+expected: true
+operator: "=="
+pid: 30935
+hostname: wangxiaobindeMacBook-Pro.local
+
+2018-10-16 17:57:55,484 ERROR 30935 [-/::1/-/1ms GET /news] nodejs.AssertionError [ERR_ASSERTION]: Can't find viewEngine for /Users/wlove_c/Eno/study/egg_study/myExample/app/view/news/list.tpl
+    at ContextView.[contextView#render] (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-view/lib/context_view.js:66:5)
+    at <anonymous>
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: ""
+expected: true
+operator: "=="
+pid: 30935
+hostname: wangxiaobindeMacBook-Pro.local
+
+2018-10-16 19:17:52,655 ERROR 30934 nodejs.ClusterClientNoResponseError: client no response in 2589288ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:478:11)
+    at tryOnTimeout (timers.js:302:5)
+    at Timer.listOnTimeout (timers.js:262:5)
+name: "ClusterClientNoResponseError"
+pid: 30934
+hostname: wangxiaobindeMacBook-Pro.local
+
+2018-10-17 10:57:53,178 ERROR 31541 [-/::1/-/7ms GET /news] nodejs.TypeError: Cannot destructure property `serverUrl` of 'undefined' or 'null'.
+    at NewsService.list (/Users/wlove_c/Eno/study/egg_study/myExample/app/service/news.js:7:49)
+    at NewsController.list (/Users/wlove_c/Eno/study/egg_study/myExample/app/controller/news.js:18:45)
+    at Object.callFn (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-core/lib/utils/index.js:36:21)
+    at Object.classControllerMiddleware (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-core/lib/utils/index.js:36:21)
+    at wrappedController (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/wlove_c/Eno/study/egg_study/myExample/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+
+pid: 31541
+hostname: wangxiaobindeMacBook-Pro.local
+
+2018-10-17 10:59:34,062 ERROR 31545 [-/::1/-/4ms GET /news] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg/lib/application.js:321:15)
+    at Object.get cookies [as cookies] (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg/app/extend/context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-security/app/extend/context.js:86:33)
+    at Object.ensureCsrfSecret (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-security/app/extend/context.js:97:13)
+    at csrf (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-security/lib/middlewares/csrf.js:14:9)
+    at dispatch (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/koa-compose/index.js:42:32)
+    at /Users/wlove_c/Eno/study/egg_study/myExample/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/koa-compose/index.js:42:32)
+    at session (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/koa-session/index.js:41:13)
+    at dispatch (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/koa-compose/index.js:42:32)
+
+pid: 31545
+hostname: wangxiaobindeMacBook-Pro.local
+
+2018-10-17 11:00:06,833 ERROR 31548 [-/::1/-/6ms GET /news] nodejs.TypeError: Cannot destructure property `serverUrl` of 'undefined' or 'null'.
+    at NewsService.list (/Users/wlove_c/Eno/study/egg_study/myExample/app/service/news.js:7:49)
+    at NewsController.list (/Users/wlove_c/Eno/study/egg_study/myExample/app/controller/news.js:18:45)
+    at Object.callFn (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-core/lib/utils/index.js:36:21)
+    at Object.classControllerMiddleware (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-core/lib/utils/index.js:36:21)
+    at wrappedController (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/wlove_c/Eno/study/egg_study/myExample/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+
+pid: 31548
+hostname: wangxiaobindeMacBook-Pro.local
+
+2018-10-17 11:01:34,559 ERROR 31554 [-/::1/-/7ms GET /news] nodejs.TypeError: Cannot destructure property `serverUrl` of 'undefined' or 'null'.
+    at NewsService.list (/Users/wlove_c/Eno/study/egg_study/myExample/app/service/news.js:8:47)
+    at NewsController.list (/Users/wlove_c/Eno/study/egg_study/myExample/app/controller/news.js:18:45)
+    at Object.callFn (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-core/lib/utils/index.js:36:21)
+    at Object.classControllerMiddleware (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-core/lib/utils/index.js:36:21)
+    at wrappedController (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/wlove_c/Eno/study/egg_study/myExample/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+
+pid: 31554
+hostname: wangxiaobindeMacBook-Pro.local
+
+2018-10-17 11:03:10,897 ERROR 31557 [-/::1/-/7ms GET /news] nodejs.TypeError: Cannot destructure property `serverUrl` of 'undefined' or 'null'.
+    at NewsService.list (/Users/wlove_c/Eno/study/egg_study/myExample/app/service/news.js:8:47)
+    at NewsController.list (/Users/wlove_c/Eno/study/egg_study/myExample/app/controller/news.js:18:45)
+    at Object.callFn (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-core/lib/utils/index.js:36:21)
+    at Object.classControllerMiddleware (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-core/lib/utils/index.js:36:21)
+    at wrappedController (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/wlove_c/Eno/study/egg_study/myExample/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+
+pid: 31557
+hostname: wangxiaobindeMacBook-Pro.local
+
+2018-10-17 11:03:25,449 ERROR 31559 [-/::1/-/3ms GET /news] nodejs.TypeError: Cannot destructure property `serverUrl` of 'undefined' or 'null'.
+    at NewsService.list (/Users/wlove_c/Eno/study/egg_study/myExample/app/service/news.js:8:47)
+    at NewsController.list (/Users/wlove_c/Eno/study/egg_study/myExample/app/controller/news.js:18:45)
+    at Object.callFn (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-core/lib/utils/index.js:36:21)
+    at Object.classControllerMiddleware (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-core/lib/utils/index.js:36:21)
+    at wrappedController (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/wlove_c/Eno/study/egg_study/myExample/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+
+pid: 31559
+hostname: wangxiaobindeMacBook-Pro.local
+
+2018-10-17 11:03:54,065 ERROR 31562 [-/::1/-/12ms GET /news] nodejs.TypeError: Cannot destructure property `serverUrl` of 'undefined' or 'null'.
+    at NewsService.list (/Users/wlove_c/Eno/study/egg_study/myExample/app/service/news.js:8:47)
+    at NewsController.list (/Users/wlove_c/Eno/study/egg_study/myExample/app/controller/news.js:18:45)
+    at Object.callFn (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-core/lib/utils/index.js:36:21)
+    at Object.classControllerMiddleware (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-core/lib/utils/index.js:36:21)
+    at wrappedController (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/wlove_c/Eno/study/egg_study/myExample/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+
+pid: 31562
+hostname: wangxiaobindeMacBook-Pro.local
+
+2018-10-17 11:04:35,159 ERROR 31564 [-/::1/-/15ms GET /news] nodejs.TypeError: Cannot destructure property `serverUrl` of 'undefined' or 'null'.
+    at NewsService.list (/Users/wlove_c/Eno/study/egg_study/myExample/app/service/news.js:8:47)
+    at NewsController.list (/Users/wlove_c/Eno/study/egg_study/myExample/app/controller/news.js:18:45)
+    at Object.callFn (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-core/lib/utils/index.js:36:21)
+    at Object.classControllerMiddleware (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-core/lib/utils/index.js:36:21)
+    at wrappedController (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/wlove_c/Eno/study/egg_study/myExample/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+
+pid: 31564
+hostname: wangxiaobindeMacBook-Pro.local
+
+2018-10-17 11:14:34,018 ERROR 31630 [-/::1/-/5ms GET /news] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg/lib/application.js:321:15)
+    at Object.get cookies [as cookies] (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg/app/extend/context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-security/app/extend/context.js:86:33)
+    at Object.ensureCsrfSecret (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-security/app/extend/context.js:97:13)
+    at csrf (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-security/lib/middlewares/csrf.js:14:9)
+    at dispatch (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/koa-compose/index.js:42:32)
+    at /Users/wlove_c/Eno/study/egg_study/myExample/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/koa-compose/index.js:42:32)
+    at session (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/koa-session/index.js:41:13)
+    at dispatch (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/koa-compose/index.js:42:32)
+
+pid: 31630
+hostname: wangxiaobindeMacBook-Pro.local
+
+2018-10-17 11:15:23,084 ERROR 31630 [-/::1/-/1ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg/lib/application.js:321:15)
+    at Object.get cookies [as cookies] (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg/app/extend/context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-security/app/extend/context.js:86:33)
+    at Object.ensureCsrfSecret (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-security/app/extend/context.js:97:13)
+    at csrf (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-security/lib/middlewares/csrf.js:14:9)
+    at dispatch (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/koa-compose/index.js:42:32)
+    at /Users/wlove_c/Eno/study/egg_study/myExample/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/koa-compose/index.js:42:32)
+    at session (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/koa-session/index.js:41:13)
+    at dispatch (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/koa-compose/index.js:42:32)
+
+pid: 31630
+hostname: wangxiaobindeMacBook-Pro.local
+
+2018-10-17 11:15:24,826 ERROR 31630 [-/::1/-/1ms GET /news] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg/lib/application.js:321:15)
+    at Object.get cookies [as cookies] (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg/app/extend/context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-security/app/extend/context.js:86:33)
+    at Object.ensureCsrfSecret (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-security/app/extend/context.js:97:13)
+    at csrf (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-security/lib/middlewares/csrf.js:14:9)
+    at dispatch (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/koa-compose/index.js:42:32)
+    at /Users/wlove_c/Eno/study/egg_study/myExample/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/koa-compose/index.js:42:32)
+    at session (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/koa-session/index.js:41:13)
+    at dispatch (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/koa-compose/index.js:42:32)
+
+pid: 31630
+hostname: wangxiaobindeMacBook-Pro.local
+
+2018-10-17 11:16:04,250 ERROR 31635 [-/::1/-/7ms GET /news] nodejs.TypeError: Cannot destructure property `serverUrl` of 'undefined' or 'null'.
+    at NewsService.list (/Users/wlove_c/Eno/study/egg_study/myExample/app/service/news.js:7:47)
+    at NewsController.list (/Users/wlove_c/Eno/study/egg_study/myExample/app/controller/news.js:18:45)
+    at Object.callFn (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-core/lib/utils/index.js:36:21)
+    at Object.classControllerMiddleware (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-core/lib/utils/index.js:36:21)
+    at wrappedController (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/wlove_c/Eno/study/egg_study/myExample/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+
+pid: 31635
+hostname: wangxiaobindeMacBook-Pro.local
+
+2018-10-17 11:16:43,989 ERROR 31635 [-/::1/-/1ms GET /news] nodejs.TypeError: Cannot destructure property `serverUrl` of 'undefined' or 'null'.
+    at NewsService.list (/Users/wlove_c/Eno/study/egg_study/myExample/app/service/news.js:7:47)
+    at NewsController.list (/Users/wlove_c/Eno/study/egg_study/myExample/app/controller/news.js:18:45)
+    at Object.callFn (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-core/lib/utils/index.js:36:21)
+    at Object.classControllerMiddleware (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-core/lib/utils/index.js:36:21)
+    at wrappedController (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/wlove_c/Eno/study/egg_study/myExample/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+
+pid: 31635
+hostname: wangxiaobindeMacBook-Pro.local
+
+2018-10-17 11:17:25,431 ERROR 31640 [-/::1/-/7ms GET /news] nodejs.TypeError: Cannot destructure property `serverUrl` of 'undefined' or 'null'.
+    at NewsService.list (/Users/wlove_c/Eno/study/egg_study/myExample/app/service/news.js:7:47)
+    at NewsController.list (/Users/wlove_c/Eno/study/egg_study/myExample/app/controller/news.js:8:45)
+    at Object.callFn (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-core/lib/utils/index.js:36:21)
+    at Object.classControllerMiddleware (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-core/lib/utils/index.js:36:21)
+    at wrappedController (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/wlove_c/Eno/study/egg_study/myExample/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+
+pid: 31640
+hostname: wangxiaobindeMacBook-Pro.local
+
+2018-10-17 11:17:34,328 ERROR 31642 [-/::1/-/6ms GET /news] nodejs.TypeError: Cannot destructure property `serverUrl` of 'undefined' or 'null'.
+    at NewsService.list (/Users/wlove_c/Eno/study/egg_study/myExample/app/service/news.js:7:47)
+    at NewsController.list (/Users/wlove_c/Eno/study/egg_study/myExample/app/controller/news.js:18:45)
+    at Object.callFn (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-core/lib/utils/index.js:36:21)
+    at Object.classControllerMiddleware (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-core/lib/utils/index.js:36:21)
+    at wrappedController (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/wlove_c/Eno/study/egg_study/myExample/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+
+pid: 31642
+hostname: wangxiaobindeMacBook-Pro.local
+
+2018-10-17 11:20:36,233 ERROR 31646 [-/undefined/-/5031ms GET /news] nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://hacker-news.firebaseio.com/v0/topstories.json -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":2,"createSocketErrorCount":0,"closeSocketCount":1,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{"hacker-news.firebaseio.com:443:::::::::":1},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/urllib/lib/urllib.js:821:15)
+    at ontimeout (timers.js:478:11)
+    at tryOnTimeout (timers.js:302:5)
+    at Timer.listOnTimeout (timers.js:262:5)
+name: "ConnectionTimeoutError"
+requestId: 1
+data: undefined
+path: "/v0/topstories.json?orderBy=%22%24key%22&startAt=%220%22&endAt=%224%22"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"headers":{},"size":0,"aborted":false,"rt":5021,"keepAliveSocket":false,"requestUrls":["https://hacker-news.firebaseio.com/v0/topstories.json"],"timing":null,"remoteAddress":"35.201.97.85","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+headerSent: true
+pid: 31646
+hostname: wangxiaobindeMacBook-Pro.local
+
+2018-10-17 11:20:40,815 ERROR 31646 [-/::1/-/5006ms GET /news] nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://hacker-news.firebaseio.com/v0/topstories.json -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":2,"createSocketErrorCount":0,"closeSocketCount":2,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/urllib/lib/urllib.js:821:15)
+    at ontimeout (timers.js:478:11)
+    at tryOnTimeout (timers.js:302:5)
+    at Timer.listOnTimeout (timers.js:262:5)
+name: "ConnectionTimeoutError"
+requestId: 2
+data: undefined
+path: "/v0/topstories.json?orderBy=%22%24key%22&startAt=%220%22&endAt=%224%22"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"headers":{},"size":0,"aborted":false,"rt":5006,"keepAliveSocket":false,"requestUrls":["https://hacker-news.firebaseio.com/v0/topstories.json"],"timing":null,"remoteAddress":"35.201.97.85","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 31646
+hostname: wangxiaobindeMacBook-Pro.local
+
+2018-10-17 11:22:55,805 ERROR 31650 [-/::1/-/5032ms GET /news] nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://hacker-news.firebaseio.com/v0/topstories.json -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":1,"createSocketErrorCount":0,"closeSocketCount":1,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/urllib/lib/urllib.js:821:15)
+    at ontimeout (timers.js:478:11)
+    at tryOnTimeout (timers.js:302:5)
+    at Timer.listOnTimeout (timers.js:262:5)
+name: "ConnectionTimeoutError"
+requestId: 1
+data: undefined
+path: "/v0/topstories.json?orderBy=%22%24key%22&startAt=%220%22&endAt=%224%22"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"headers":{},"size":0,"aborted":false,"rt":5020,"keepAliveSocket":false,"requestUrls":["https://hacker-news.firebaseio.com/v0/topstories.json"],"timing":null,"remoteAddress":"35.201.97.85","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 31650
+hostname: wangxiaobindeMacBook-Pro.local
+
+2018-10-17 11:47:18,917 ERROR 31995 [-/undefined/-/5258ms GET /news] nodejs.ResponseTimeoutError: Response timeout for 5000ms, GET http://dev.quliansg.com:18765/api/banners/item/113.json -1 (connected: true, keepalive socket: false, agent status: {"createSocketCount":892,"createSocketErrorCount":0,"closeSocketCount":151,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":586,"freeSockets":{"dev.quliansg.com:18765:":178},"sockets":{"dev.quliansg.com:18765:":563},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/urllib/lib/urllib.js:835:15)
+    at ontimeout (timers.js:478:11)
+    at tryOnTimeout (timers.js:302:5)
+    at Timer.listOnTimeout (timers.js:262:5)
+name: "ResponseTimeoutError"
+requestId: 161
+data: undefined
+path: "/api/banners/item/113.json"
+status: -1
+headers: {}
+res: {"status":-1,"statusCode":-1,"headers":{},"size":0,"aborted":false,"rt":5172,"keepAliveSocket":false,"requestUrls":["http://dev.quliansg.com:18765/api/banners/item/113.json"],"timing":null,"remoteAddress":"119.23.215.2","remotePort":18765,"socketHandledRequests":1,"socketHandledResponses":0}
+headerSent: true
+pid: 31995
+hostname: wangxiaobindeMacBook-Pro.local
+
+2018-10-17 12:54:25,125 ERROR 31629 nodejs.ClusterClientNoResponseError: client no response in 2112402ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:478:11)
+    at tryOnTimeout (timers.js:302:5)
+    at Timer.listOnTimeout (timers.js:262:5)
+name: "ClusterClientNoResponseError"
+pid: 31629
+hostname: wangxiaobindeMacBook-Pro.local
+
+2018-10-17 14:03:03,011 ERROR 31629 nodejs.ClusterClientNoResponseError: client no response in 4079090ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/cluster-client/lib/leader.js:74:23)
+    at ontimeout (timers.js:478:11)
+    at tryOnTimeout (timers.js:302:5)
+    at Timer.listOnTimeout (timers.js:262:5)
+name: "ClusterClientNoResponseError"
+pid: 31629
+hostname: wangxiaobindeMacBook-Pro.local
+
+2018-10-17 14:59:30,589 ERROR 32161 [-/::1/-/448ms GET /news] nodejs.RequestError: getaddrinfo ENOTFOUND dev.quliansg.com dev.quliansg.com:18765, GET http://dev.quliansg.com:18765/item/48.json -1 (connected: false, keepalive socket: false, agent status: {"createSocketCount":1633,"createSocketErrorCount":0,"closeSocketCount":1089,"errorSocketCount":0,"timeoutSocketCount":426,"requestCount":1437,"freeSockets":{"dev.quliansg.com:18765:":256},"sockets":{"dev.quliansg.com:18765:":288},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {} (dev.quliansg.com)
+    at errnoException (dns.js:55:10)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:97:26)
+code: "ENOTFOUND"
+errno: "ENOTFOUND"
+syscall: "getaddrinfo"
+hostname: "dev.quliansg.com"
+host: "dev.quliansg.com"
+port: "18765"
+name: "RequestError"
+data: undefined
+path: "/item/48.json"
+status: -1
+headers: {}
+res: {"status":-1,"statusCode":-1,"headers":{},"size":0,"aborted":false,"rt":333,"keepAliveSocket":false,"requestUrls":["http://dev.quliansg.com:18765/item/48.json"],"timing":null,"remoteAddress":"","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 32161
+hostname: wangxiaobindeMacBook-Pro.local
+

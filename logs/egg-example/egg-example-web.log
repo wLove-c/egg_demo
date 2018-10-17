@@ -1,0 +1,44 @@
+2018-10-17 11:23:29,573 WARN 31653 [-/::1/-/100ms GET /news] nodejs.JSONResponseFormatError: Unexpected token < in JSON at position 0 (data json format: "<!DOCTYPE HTML PUBLIC \"-//IETF//DTD HTML 2.0//EN\">\n<html><head>\n<title>302 Found</title>\n</head><body>\n<h1>Found</h1>\n<p>The document has moved <a href=\"http://www.baidu.com/search/error.html\">here</a>.</p>\n</body></html>\n"), GET https://www.baidu.com/topstories.json 302 (connected: true, keepalive socket: false, agent status: {"createSocketCount":1,"createSocketErrorCount":0,"closeSocketCount":0,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{"www.baidu.com:443:::::::::":1},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 1)
+headers: {"cache-control":"max-age=86400","connection":"Keep-Alive","content-length":"222","content-type":"text/html; charset=iso-8859-1","date":"Wed, 17 Oct 2018 03:23:29 GMT","expires":"Thu, 18 Oct 2018 03:23:29 GMT","location":"https://www.baidu.com/search/error.html","server":"Apache"}
+headers: {"cache-control":"max-age=86400","connection":"Keep-Alive","content-length":"222","content-type":"text/html; charset=iso-8859-1","date":"Wed, 17 Oct 2018 03:23:29 GMT","expires":"Thu, 18 Oct 2018 03:23:29 GMT","location":"https://www.baidu.com/search/error.html","server":"Apache"}
+    at JSON.parse (<anonymous>)
+    at parseJSON (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/urllib/lib/urllib.js:1037:24)
+    at /Users/wlove_c/Eno/study/egg_study/myExample/node_modules/urllib/lib/urllib.js:778:23
+    at decodeContent (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/urllib/lib/urllib.js:585:14)
+    at IncomingMessage.<anonymous> (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/urllib/lib/urllib.js:759:7)
+    at emitNone (events.js:120:20)
+    at IncomingMessage.emit (events.js:218:7)
+    at endReadableNT (_stream_readable.js:1054:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+name: "JSONResponseFormatError"
+data: "<!DOCTYPE HTML PUBLIC \"-//IETF//DTD HTML 2.0//EN\">\n<html><head>\n<title>302 Found</title>\n</head><body>\n<h1>Found</h1>\n<p>The document has moved <a href=\"http://www.baidu.com/search/error.html\">here</a>.</p>\n</body></html>\n"
+path: "/topstories.json?orderBy=%22%24key%22&startAt=%220%22&endAt=%224%22"
+status: 302
+headers: {"cache-control":"max-age=86400","connection":"Keep-Alive","content-length":"222","content-type":"text/html; charset=iso-8859-1","date":"Wed, 17 Oct 2018 03:23:29 GMT","expires":"Thu, 18 Oct 2018 03:23:29 GMT","location":"https://www.baidu.com/search/error.html","server":"Apache"}
+res: {"status":302,"statusCode":302,"headers":{"cache-control":"max-age=86400","connection":"Keep-Alive","content-length":"222","content-type":"text/html; charset=iso-8859-1","date":"Wed, 17 Oct 2018 03:23:29 GMT","expires":"Thu, 18 Oct 2018 03:23:29 GMT","location":"https://www.baidu.com/search/error.html","server":"Apache"},"size":222,"aborted":false,"rt":88,"keepAliveSocket":false,"data":"<!DOCTYPE HTML PUBLIC \"-//IETF//DTD HTML 2.0//EN\">\n<html><head>\n<title>302 Found</title>\n</head><body>\n<h1>Found</h1>\n<p>The document has moved <a href=\"http://www.baidu.com/search/error.html\">here</a>.</p>\n</body></html>\n","requestUrls":["https://www.baidu.com/topstories.json"],"timing":null,"remoteAddress":"14.215.177.39","remotePort":443,"socketHandledRequests":1,"socketHandledResponses":1}
+pid: 31653
+hostname: wangxiaobindeMacBook-Pro.local
+
+2018-10-17 11:23:45,409 WARN 31653 [-/::1/-/58ms GET /news] nodejs.JSONResponseFormatError: Unexpected token < in JSON at position 0 (data json format: "<!DOCTYPE HTML PUBLIC \"-//IETF//DTD HTML 2.0//EN\">\n<html><head>\n<title>302 Found</title>\n</head><body>\n<h1>Found</h1>\n<p>The document has moved <a href=\"http://www.baidu.com/search/error.html\">here</a>.</p>\n</body></html>\n"), GET https://www.baidu.com/topstories.json 302 (connected: true, keepalive socket: false, agent status: {"createSocketCount":2,"createSocketErrorCount":0,"closeSocketCount":1,"errorSocketCount":0,"timeoutSocketCount":1,"requestCount":1,"freeSockets":{},"sockets":{"www.baidu.com:443:::::::::":1},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 1)
+headers: {"cache-control":"max-age=86400","connection":"Keep-Alive","content-length":"222","content-type":"text/html; charset=iso-8859-1","date":"Wed, 17 Oct 2018 03:23:45 GMT","expires":"Thu, 18 Oct 2018 03:23:45 GMT","location":"https://www.baidu.com/search/error.html","server":"Apache"}
+headers: {"cache-control":"max-age=86400","connection":"Keep-Alive","content-length":"222","content-type":"text/html; charset=iso-8859-1","date":"Wed, 17 Oct 2018 03:23:45 GMT","expires":"Thu, 18 Oct 2018 03:23:45 GMT","location":"https://www.baidu.com/search/error.html","server":"Apache"}
+    at JSON.parse (<anonymous>)
+    at parseJSON (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/urllib/lib/urllib.js:1037:24)
+    at /Users/wlove_c/Eno/study/egg_study/myExample/node_modules/urllib/lib/urllib.js:778:23
+    at decodeContent (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/urllib/lib/urllib.js:585:14)
+    at IncomingMessage.<anonymous> (/Users/wlove_c/Eno/study/egg_study/myExample/node_modules/urllib/lib/urllib.js:759:7)
+    at emitNone (events.js:120:20)
+    at IncomingMessage.emit (events.js:218:7)
+    at endReadableNT (_stream_readable.js:1054:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+name: "JSONResponseFormatError"
+data: "<!DOCTYPE HTML PUBLIC \"-//IETF//DTD HTML 2.0//EN\">\n<html><head>\n<title>302 Found</title>\n</head><body>\n<h1>Found</h1>\n<p>The document has moved <a href=\"http://www.baidu.com/search/error.html\">here</a>.</p>\n</body></html>\n"
+path: "/topstories.json?orderBy=%22%24key%22&startAt=%220%22&endAt=%224%22"
+status: 302
+headers: {"cache-control":"max-age=86400","connection":"Keep-Alive","content-length":"222","content-type":"text/html; charset=iso-8859-1","date":"Wed, 17 Oct 2018 03:23:45 GMT","expires":"Thu, 18 Oct 2018 03:23:45 GMT","location":"https://www.baidu.com/search/error.html","server":"Apache"}
+res: {"status":302,"statusCode":302,"headers":{"cache-control":"max-age=86400","connection":"Keep-Alive","content-length":"222","content-type":"text/html; charset=iso-8859-1","date":"Wed, 17 Oct 2018 03:23:45 GMT","expires":"Thu, 18 Oct 2018 03:23:45 GMT","location":"https://www.baidu.com/search/error.html","server":"Apache"},"size":222,"aborted":false,"rt":57,"keepAliveSocket":false,"data":"<!DOCTYPE HTML PUBLIC \"-//IETF//DTD HTML 2.0//EN\">\n<html><head>\n<title>302 Found</title>\n</head><body>\n<h1>Found</h1>\n<p>The document has moved <a href=\"http://www.baidu.com/search/error.html\">here</a>.</p>\n</body></html>\n","requestUrls":["https://www.baidu.com/topstories.json"],"timing":null,"remoteAddress":"14.215.177.39","remotePort":443,"socketHandledRequests":1,"socketHandledResponses":1}
+pid: 31653
+hostname: wangxiaobindeMacBook-Pro.local
+
